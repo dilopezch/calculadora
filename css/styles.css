@@ -43,6 +43,7 @@ html {
 .btn {
     font-family: "Lato", sans-serif;
     font-size: 20px;
+    -webkit-box-shadow: 0 1px 3px 1px #DDC7F3;
 }
 
 .btn-sings {
@@ -51,8 +52,9 @@ html {
     width: 60px;
     height: 60px;
     margin: 0 auto;
-    border: 0.5px;
+    border: 0px;
     cursor: pointer;
+    
 }
 
 .btn-numbers {
