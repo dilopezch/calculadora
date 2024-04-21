@@ -26,6 +26,7 @@ html {
     width: 100%;
     height: 250px;
     background-color: white;
+    border: 0;
 }
 
 #input-buttons {
@@ -43,7 +44,7 @@ html {
 .btn {
     font-family: "Lato", sans-serif;
     font-size: 20px;
-    -webkit-box-shadow: 0 1px 3px 1px #DDC7F3;
+    
 }
 
 .btn-sings {
@@ -54,6 +55,7 @@ html {
     margin: 0 auto;
     border: 0px;
     cursor: pointer;
+    box-shadow: 0 1.5px 3px 1px #8260a3;
     
 }
 
@@ -66,10 +68,10 @@ html {
     margin: 0 auto;
     border: 0;
     cursor: pointer;
+    box-shadow: 0 1.5px 3px 1px #DDC7F3;
 }
 
 .equal-sing {
-    grid-area: 5 / 4 / 6 / 5;
     background-color: #952CFF;
     color: white;
 }
