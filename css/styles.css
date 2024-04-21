@@ -27,6 +27,11 @@ html {
     height: 250px;
     background-color: white;
     border: 0;
+    text-align: right;
+    font-family: "Lato", sans-serif;
+    font-size: 50px;
+    color: #424242;
+    padding: 100px 10px 10px;
 }
 
 #input-buttons {
@@ -49,13 +54,14 @@ html {
 
 .btn-sings {
     background-color: #DDC7F3;
+    color: #424242;
     border-radius: 50%;
     width: 60px;
     height: 60px;
     margin: 0 auto;
     border: 0px;
     cursor: pointer;
-    box-shadow: 0 1.5px 3px 1px #8260a3;
+    box-shadow: 0 1.5px 3px 1px #9b84b3;
     
 }
 
